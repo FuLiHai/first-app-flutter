@@ -11,3 +11,8 @@ For help getting started with Flutter, view our online
 # first-app-flutter
 first-app-flutter
 >>>>>>> 639db42aaa79cf92aa76f03ce710f2f739c61ed0
+
+# 发布Android版APP
+https://flutterchina.club/android-release/
+
+flutter build apk --release
